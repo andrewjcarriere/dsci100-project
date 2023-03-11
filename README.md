@@ -4,6 +4,3 @@
 - Andrew Carriere
 - Veronika Bumbulovic
 - Kevin Yoon Jeong
-## Project Description:
-## Resources:
-
